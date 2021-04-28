@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 """
 This code describes Buffon's needle problem, which states:
     Suppose we have a floor made of parallel strips of wood,
